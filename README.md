@@ -10,7 +10,7 @@ College: City College of Angeles
 High School: Angeles City Science High School
   
 ## My Projects
-Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/npangilinan-CCA/EDM-N.Pangilinan/blob/main/Midterm%20Lab%20Task%201/process.md)
+Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://npangilinan-cca.github.io/Midterm-Lab-Task1/)
 
-Midterm Lab Task 2: [Data Cleansing and Preparation using Power Query](https://github.com/npangilinan-CCA/EDM-N.Pangilinan/blob/main/Midterm%20Lab%20Task%202/process.md)
+Midterm Lab Task 2: [Data Cleansing and Preparation using Power Query](https://npangilinan-cca.github.io/Midterm-Lab-Task-2/)
 
