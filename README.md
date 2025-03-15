@@ -12,5 +12,7 @@ High School: Angeles City Science High School
 ## My Projects
 Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://npangilinan-cca.github.io/Midterm-Lab-Task1/)
 
-Midterm Lab Task 2: [Data Cleansing and Preparation using Power Query](https://npangilinan-cca.github.io/Midterm-Lab-Task-2/)
+Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://npangilinan-cca.github.io/Midterm-Lab-Task-2/)
+
+Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](
 
