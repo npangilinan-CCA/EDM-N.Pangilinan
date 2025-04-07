@@ -9,10 +9,13 @@ College: City College of Angeles
 
 High School: Angeles City Science High School
   
-## My Projects
+## Midterm Projects
 Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://npangilinan-cca.github.io/Midterm-Lab-Task1/)
 
 Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://npangilinan-cca.github.io/Midterm-Lab-Task-2/)
 
 Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://npangilinan-cca.github.io/Midterm-Lab-Task-3/)
+
+## Final Projects
+Finals Lab Task 1: [Creating a Database using MySQL Workbench](https://npangilinan-cca.github.io/Finals-Lab-Task-1/)
 
