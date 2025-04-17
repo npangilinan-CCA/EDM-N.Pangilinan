@@ -19,3 +19,7 @@ Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://npangilinan-cca
 ## Final Projects
 Finals Lab Task 1: [Creating a Database using MySQL Workbench](https://npangilinan-cca.github.io/Finals-Lab-Task-1/)
 
+Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://npangilinan-cca.github.io/Finals-Lab-Task-2/)
+
+Finals Lab Task 3: [Table Manipulation](https://npangilinan-cca.github.io/Finals-Lab-Task-3/)
+
