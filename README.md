@@ -23,3 +23,5 @@ Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://npangili
 
 Finals Lab Task 3: [Table Manipulation](https://npangilinan-cca.github.io/Finals-Lab-Task-3/)
 
+Finals Lab Task 3-1: [Using MYSQL Clause](https://npangilinan-cca.github.io/Finals-Lab-Task-3-1/)
+
