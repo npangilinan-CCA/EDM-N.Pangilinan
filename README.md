@@ -27,3 +27,5 @@ Finals Lab Task 3-1: [Using MYSQL Clause](https://npangilinan-cca.github.io/Fina
 
 Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://npangilinan-cca.github.io/Finals-Lab-Task-5/)
 
+Finals Lab Task 6: [MongoDBCRUD](https://npangilinan-cca.github.io/Finals-Lab-Task-6/)
+
